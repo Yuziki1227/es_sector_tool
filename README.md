@@ -99,7 +99,7 @@ EuroScope 扇区简化生成工具是一个用于生成 EuroScope 扇区简化�
 
 ## 许可证
 
-本项目采用 [MIT 许可证](LICENSE)，详细信息请参阅 `LICENSE` 文件。
+本项目采用 [私有许可证](LICENSE)，请务必参阅 `LICENSE` 文件。
 
 ## 联系信息
 
